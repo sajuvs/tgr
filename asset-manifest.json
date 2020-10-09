@@ -1,33 +1,32 @@
 {
   "files": {
-    "main.css": "/tgr/static/css/main.6ad9e0bd.chunk.css",
-    "main.js": "/tgr/static/js/main.89331c24.chunk.js",
-    "main.js.map": "/tgr/static/js/main.89331c24.chunk.js.map",
+    "main.css": "/tgr/static/css/main.a144ff3e.chunk.css",
+    "main.js": "/tgr/static/js/main.ddac38f8.chunk.js",
+    "main.js.map": "/tgr/static/js/main.ddac38f8.chunk.js.map",
     "runtime-main.js": "/tgr/static/js/runtime-main.5a409134.js",
     "runtime-main.js.map": "/tgr/static/js/runtime-main.5a409134.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tgr/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.7594d31c.chunk.js": "/tgr/static/js/2.7594d31c.chunk.js",
-    "static/js/2.7594d31c.chunk.js.map": "/tgr/static/js/2.7594d31c.chunk.js.map",
+    "static/js/2.1a58aed7.chunk.js": "/tgr/static/js/2.1a58aed7.chunk.js",
+    "static/js/2.1a58aed7.chunk.js.map": "/tgr/static/js/2.1a58aed7.chunk.js.map",
     "index.html": "/tgr/index.html",
-    "precache-manifest.f3ba60a9306364fb3501bd5b3b5a0a29.js": "/tgr/precache-manifest.f3ba60a9306364fb3501bd5b3b5a0a29.js",
+    "precache-manifest.34324c334942269dfca91975ce9a4473.js": "/tgr/precache-manifest.34324c334942269dfca91975ce9a4473.js",
     "service-worker.js": "/tgr/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tgr/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.6ad9e0bd.chunk.css.map": "/tgr/static/css/main.6ad9e0bd.chunk.css.map",
-    "static/js/2.7594d31c.chunk.js.LICENSE.txt": "/tgr/static/js/2.7594d31c.chunk.js.LICENSE.txt",
+    "static/css/main.a144ff3e.chunk.css.map": "/tgr/static/css/main.a144ff3e.chunk.css.map",
+    "static/js/2.1a58aed7.chunk.js.LICENSE.txt": "/tgr/static/js/2.1a58aed7.chunk.js.LICENSE.txt",
     "static/media/CAROUSAL_IMG01.jpg": "/tgr/static/media/CAROUSAL_IMG01.6bd81548.jpg",
     "static/media/CAROUSAL_IMG02.jpg": "/tgr/static/media/CAROUSAL_IMG02.51afc75f.jpg",
-    "static/media/CAROUSAL_IMG03.jpg": "/tgr/static/media/CAROUSAL_IMG03.e98d747a.jpg",
     "static/media/CAROUSAL_IMG04.jpg": "/tgr/static/media/CAROUSAL_IMG04.6f790f8e.jpg",
     "static/media/CAROUSAL_IMG05.jpg": "/tgr/static/media/CAROUSAL_IMG05.146ccbc9.jpg",
-    "static/media/img1.jpg": "/tgr/static/media/img1.255d51fa.jpg",
-    "static/media/img2.jpg": "/tgr/static/media/img2.11dbbae8.jpg",
-    "static/media/img3.jpg": "/tgr/static/media/img3.5dd47185.jpg"
+    "static/media/img1.jpg": "/tgr/static/media/img1.2af2b5c2.jpg",
+    "static/media/img2.jpg": "/tgr/static/media/img2.76d38d32.jpg",
+    "static/media/img3.jpg": "/tgr/static/media/img3.afa2dcb6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5a409134.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.7594d31c.chunk.js",
-    "static/css/main.6ad9e0bd.chunk.css",
-    "static/js/main.89331c24.chunk.js"
+    "static/js/2.1a58aed7.chunk.js",
+    "static/css/main.a144ff3e.chunk.css",
+    "static/js/main.ddac38f8.chunk.js"
   ]
 }

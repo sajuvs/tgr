@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d2f69c487d33fa57768bf88039116d0",
+    "revision": "0d0a7eadf3da3417564404f1ed838b99",
     "url": "/tgr/index.html"
   },
   {
-    "revision": "0bec01dc55df38346d22",
+    "revision": "baaf599c956c853cfc5c",
     "url": "/tgr/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "940e2690767fda968185",
-    "url": "/tgr/static/css/main.6ad9e0bd.chunk.css"
+    "revision": "2578435ef6958e65f1ea",
+    "url": "/tgr/static/css/main.a144ff3e.chunk.css"
   },
   {
-    "revision": "0bec01dc55df38346d22",
-    "url": "/tgr/static/js/2.7594d31c.chunk.js"
+    "revision": "baaf599c956c853cfc5c",
+    "url": "/tgr/static/js/2.1a58aed7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/tgr/static/js/2.7594d31c.chunk.js.LICENSE.txt"
+    "url": "/tgr/static/js/2.1a58aed7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "940e2690767fda968185",
-    "url": "/tgr/static/js/main.89331c24.chunk.js"
+    "revision": "2578435ef6958e65f1ea",
+    "url": "/tgr/static/js/main.ddac38f8.chunk.js"
   },
   {
     "revision": "4421381fc62db0c9a363",
@@ -36,10 +36,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tgr/static/media/CAROUSAL_IMG02.51afc75f.jpg"
   },
   {
-    "revision": "e98d747abe6a0143c0391afba41435a9",
-    "url": "/tgr/static/media/CAROUSAL_IMG03.e98d747a.jpg"
-  },
-  {
     "revision": "6f790f8ecce8cfb3464f1bcda2a3003a",
     "url": "/tgr/static/media/CAROUSAL_IMG04.6f790f8e.jpg"
   },
@@ -48,15 +44,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tgr/static/media/CAROUSAL_IMG05.146ccbc9.jpg"
   },
   {
-    "revision": "255d51fa862c606a87fd944638c8cebe",
-    "url": "/tgr/static/media/img1.255d51fa.jpg"
+    "revision": "2af2b5c29c3d7dd2f2363c1c8d7e6fcd",
+    "url": "/tgr/static/media/img1.2af2b5c2.jpg"
   },
   {
-    "revision": "11dbbae81527c0a94836d67df648e6a5",
-    "url": "/tgr/static/media/img2.11dbbae8.jpg"
+    "revision": "76d38d329e2408cf3d3e853dbf3768ff",
+    "url": "/tgr/static/media/img2.76d38d32.jpg"
   },
   {
-    "revision": "5dd47185aea8dd296c139fde27e2d074",
-    "url": "/tgr/static/media/img3.5dd47185.jpg"
+    "revision": "afa2dcb6eb6369b64fb949313e1b7916",
+    "url": "/tgr/static/media/img3.afa2dcb6.jpg"
   }
 ]);
