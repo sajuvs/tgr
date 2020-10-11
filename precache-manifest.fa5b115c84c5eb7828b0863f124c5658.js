@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0d0a7eadf3da3417564404f1ed838b99",
+    "revision": "65daf70aec0f366c51316b53bb63d92a",
     "url": "/tgr/index.html"
   },
   {
-    "revision": "baaf599c956c853cfc5c",
+    "revision": "a7b5e761104bf38e6daa",
     "url": "/tgr/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2578435ef6958e65f1ea",
+    "revision": "e4612da1691a3837e267",
     "url": "/tgr/static/css/main.a144ff3e.chunk.css"
   },
   {
-    "revision": "baaf599c956c853cfc5c",
-    "url": "/tgr/static/js/2.1a58aed7.chunk.js"
+    "revision": "a7b5e761104bf38e6daa",
+    "url": "/tgr/static/js/2.c0547f85.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/tgr/static/js/2.1a58aed7.chunk.js.LICENSE.txt"
+    "url": "/tgr/static/js/2.c0547f85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2578435ef6958e65f1ea",
-    "url": "/tgr/static/js/main.ddac38f8.chunk.js"
+    "revision": "e4612da1691a3837e267",
+    "url": "/tgr/static/js/main.c8702eeb.chunk.js"
   },
   {
     "revision": "4421381fc62db0c9a363",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "146ccbc9ca1db91b52c0c26add024d87",
     "url": "/tgr/static/media/CAROUSAL_IMG05.146ccbc9.jpg"
+  },
+  {
+    "revision": "ffc1e44771a20a73d12776b888646638",
+    "url": "/tgr/static/media/LOGO.ffc1e447.PNG"
   },
   {
     "revision": "2af2b5c29c3d7dd2f2363c1c8d7e6fcd",
