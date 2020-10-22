@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0a3a14ebabfb7ba9e3038132995ca3cf",
+    "revision": "ae9c02f5bef01cbdc7e704faf174dcab",
     "url": "/tgr/index.html"
   },
   {
-    "revision": "67b6c9845d3bcbd27dc9",
+    "revision": "aa1322727d697aec3a47",
     "url": "/tgr/static/css/2.11b917a3.chunk.css"
   },
   {
-    "revision": "9b7541cf7ec78af91bce",
-    "url": "/tgr/static/css/main.a3aabdb7.chunk.css"
+    "revision": "3dfe180367219980a763",
+    "url": "/tgr/static/css/main.9f90debc.chunk.css"
   },
   {
-    "revision": "67b6c9845d3bcbd27dc9",
-    "url": "/tgr/static/js/2.6282e196.chunk.js"
+    "revision": "aa1322727d697aec3a47",
+    "url": "/tgr/static/js/2.d0b99a9f.chunk.js"
   },
   {
     "revision": "5570793de2bf5e42b3d1f1ab2cd95308",
-    "url": "/tgr/static/js/2.6282e196.chunk.js.LICENSE.txt"
+    "url": "/tgr/static/js/2.d0b99a9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b7541cf7ec78af91bce",
-    "url": "/tgr/static/js/main.61833022.chunk.js"
+    "revision": "3dfe180367219980a763",
+    "url": "/tgr/static/js/main.3296bc48.chunk.js"
   },
   {
     "revision": "4421381fc62db0c9a363",
@@ -104,19 +104,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tgr/static/media/fa-solid-900.8e1ed89b.woff2"
   },
   {
-    "revision": "2af2b5c29c3d7dd2f2363c1c8d7e6fcd",
-    "url": "/tgr/static/media/img1.2af2b5c2.jpg"
+    "revision": "7ce7c480148ff2bc10278360e8beaddd",
+    "url": "/tgr/static/media/img1.7ce7c480.jpg"
   },
   {
-    "revision": "76d38d329e2408cf3d3e853dbf3768ff",
-    "url": "/tgr/static/media/img2.76d38d32.jpg"
+    "revision": "aa354df28a499d1a16fa072868715267",
+    "url": "/tgr/static/media/img2.aa354df2.jpg"
   },
   {
-    "revision": "afa2dcb6eb6369b64fb949313e1b7916",
-    "url": "/tgr/static/media/img3.afa2dcb6.jpg"
+    "revision": "f6600016e13842f5d473cd892828b711",
+    "url": "/tgr/static/media/img3.f6600016.jpg"
+  },
+  {
+    "revision": "69d3b6b8994ecb2f2b10f0ecc1a3294b",
+    "url": "/tgr/static/media/information.69d3b6b8.svg"
   },
   {
     "revision": "999fb2787e50ccd96ecb1708a77e4ac4",
     "url": "/tgr/static/media/logo.999fb278.jpg"
+  },
+  {
+    "revision": "43418d104033b13a5d25fc6755264c52",
+    "url": "/tgr/static/media/server.43418d10.svg"
+  },
+  {
+    "revision": "2523323f4a658e936810b9e0307422bc",
+    "url": "/tgr/static/media/storage.2523323f.svg"
   }
 ]);
