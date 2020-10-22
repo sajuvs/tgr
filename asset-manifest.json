@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tgr/static/css/main.27975706.chunk.css",
-    "main.js": "/tgr/static/js/main.caa2959b.chunk.js",
-    "main.js.map": "/tgr/static/js/main.caa2959b.chunk.js.map",
+    "main.css": "/tgr/static/css/main.507d84f8.chunk.css",
+    "main.js": "/tgr/static/js/main.616c6cca.chunk.js",
+    "main.js.map": "/tgr/static/js/main.616c6cca.chunk.js.map",
     "runtime-main.js": "/tgr/static/js/runtime-main.5a409134.js",
     "runtime-main.js.map": "/tgr/static/js/runtime-main.5a409134.js.map",
     "static/css/2.11b917a3.chunk.css": "/tgr/static/css/2.11b917a3.chunk.css",
-    "static/js/2.d0b99a9f.chunk.js": "/tgr/static/js/2.d0b99a9f.chunk.js",
-    "static/js/2.d0b99a9f.chunk.js.map": "/tgr/static/js/2.d0b99a9f.chunk.js.map",
+    "static/js/2.c086fb93.chunk.js": "/tgr/static/js/2.c086fb93.chunk.js",
+    "static/js/2.c086fb93.chunk.js.map": "/tgr/static/js/2.c086fb93.chunk.js.map",
     "index.html": "/tgr/index.html",
-    "precache-manifest.a45f4d3611995720c6c9d5811ae8700d.js": "/tgr/precache-manifest.a45f4d3611995720c6c9d5811ae8700d.js",
+    "precache-manifest.b9aafaa0588b5ff25d9dea6ff2b338d9.js": "/tgr/precache-manifest.b9aafaa0588b5ff25d9dea6ff2b338d9.js",
     "service-worker.js": "/tgr/service-worker.js",
     "static/css/2.11b917a3.chunk.css.map": "/tgr/static/css/2.11b917a3.chunk.css.map",
-    "static/css/main.27975706.chunk.css.map": "/tgr/static/css/main.27975706.chunk.css.map",
-    "static/js/2.d0b99a9f.chunk.js.LICENSE.txt": "/tgr/static/js/2.d0b99a9f.chunk.js.LICENSE.txt",
+    "static/css/main.507d84f8.chunk.css.map": "/tgr/static/css/main.507d84f8.chunk.css.map",
+    "static/js/2.c086fb93.chunk.js.LICENSE.txt": "/tgr/static/js/2.c086fb93.chunk.js.LICENSE.txt",
     "static/media/CAROUSAL_IMG01.jpg": "/tgr/static/media/CAROUSAL_IMG01.d64f63e7.jpg",
     "static/media/Goldenwave.jpg": "/tgr/static/media/Goldenwave.a8e633bf.jpg",
     "static/media/mdb.css": "/tgr/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/data.svg": "/tgr/static/media/data.65568ea5.svg",
     "static/media/all.min.css": "/tgr/static/media/fa-solid-900.8e1ed89b.woff2",
     "static/media/img1.jpg": "/tgr/static/media/img1.7ce7c480.jpg",
     "static/media/img2.jpg": "/tgr/static/media/img2.aa354df2.jpg",
@@ -29,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.5a409134.js",
     "static/css/2.11b917a3.chunk.css",
-    "static/js/2.d0b99a9f.chunk.js",
-    "static/css/main.27975706.chunk.css",
-    "static/js/main.caa2959b.chunk.js"
+    "static/js/2.c086fb93.chunk.js",
+    "static/css/main.507d84f8.chunk.css",
+    "static/js/main.616c6cca.chunk.js"
   ]
 }
