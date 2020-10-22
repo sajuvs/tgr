@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25b90e1726c53e9f36b22c1e58de9922",
+    "revision": "90b1c6ab7408bb0793c5dc91bb892b11",
     "url": "/tgr/index.html"
   },
   {
-    "revision": "34b198a1d217fc77f453",
+    "revision": "67b6c9845d3bcbd27dc9",
     "url": "/tgr/static/css/2.11b917a3.chunk.css"
   },
   {
-    "revision": "218161e2c2bd5e772e06",
-    "url": "/tgr/static/css/main.dd8e36cb.chunk.css"
+    "revision": "9f7182146598845bd7ca",
+    "url": "/tgr/static/css/main.c065323a.chunk.css"
   },
   {
-    "revision": "34b198a1d217fc77f453",
-    "url": "/tgr/static/js/2.13185539.chunk.js"
+    "revision": "67b6c9845d3bcbd27dc9",
+    "url": "/tgr/static/js/2.6282e196.chunk.js"
   },
   {
     "revision": "5570793de2bf5e42b3d1f1ab2cd95308",
-    "url": "/tgr/static/js/2.13185539.chunk.js.LICENSE.txt"
+    "url": "/tgr/static/js/2.6282e196.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "218161e2c2bd5e772e06",
-    "url": "/tgr/static/js/main.c839e9ce.chunk.js"
+    "revision": "9f7182146598845bd7ca",
+    "url": "/tgr/static/js/main.ee571d5d.chunk.js"
   },
   {
     "revision": "4421381fc62db0c9a363",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d64f63e7aca1c1b0e07a1b10403d3156",
     "url": "/tgr/static/media/CAROUSAL_IMG01.d64f63e7.jpg"
+  },
+  {
+    "revision": "e09e37d1f78003553f834e67b0c98d3d",
+    "url": "/tgr/static/media/Goldenwave.e09e37d1.jpg"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",

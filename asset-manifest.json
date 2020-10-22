@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/tgr/static/css/main.dd8e36cb.chunk.css",
-    "main.js": "/tgr/static/js/main.c839e9ce.chunk.js",
-    "main.js.map": "/tgr/static/js/main.c839e9ce.chunk.js.map",
+    "main.css": "/tgr/static/css/main.c065323a.chunk.css",
+    "main.js": "/tgr/static/js/main.ee571d5d.chunk.js",
+    "main.js.map": "/tgr/static/js/main.ee571d5d.chunk.js.map",
     "runtime-main.js": "/tgr/static/js/runtime-main.5a409134.js",
     "runtime-main.js.map": "/tgr/static/js/runtime-main.5a409134.js.map",
     "static/css/2.11b917a3.chunk.css": "/tgr/static/css/2.11b917a3.chunk.css",
-    "static/js/2.13185539.chunk.js": "/tgr/static/js/2.13185539.chunk.js",
-    "static/js/2.13185539.chunk.js.map": "/tgr/static/js/2.13185539.chunk.js.map",
+    "static/js/2.6282e196.chunk.js": "/tgr/static/js/2.6282e196.chunk.js",
+    "static/js/2.6282e196.chunk.js.map": "/tgr/static/js/2.6282e196.chunk.js.map",
     "index.html": "/tgr/index.html",
-    "precache-manifest.8c76e24106c8ffc600a9f93cd2804abc.js": "/tgr/precache-manifest.8c76e24106c8ffc600a9f93cd2804abc.js",
+    "precache-manifest.17e49a935b411b0b4d3b27dd7fa6cb48.js": "/tgr/precache-manifest.17e49a935b411b0b4d3b27dd7fa6cb48.js",
     "service-worker.js": "/tgr/service-worker.js",
     "static/css/2.11b917a3.chunk.css.map": "/tgr/static/css/2.11b917a3.chunk.css.map",
-    "static/css/main.dd8e36cb.chunk.css.map": "/tgr/static/css/main.dd8e36cb.chunk.css.map",
-    "static/js/2.13185539.chunk.js.LICENSE.txt": "/tgr/static/js/2.13185539.chunk.js.LICENSE.txt",
+    "static/css/main.c065323a.chunk.css.map": "/tgr/static/css/main.c065323a.chunk.css.map",
+    "static/js/2.6282e196.chunk.js.LICENSE.txt": "/tgr/static/js/2.6282e196.chunk.js.LICENSE.txt",
     "static/media/CAROUSAL_IMG01.jpg": "/tgr/static/media/CAROUSAL_IMG01.d64f63e7.jpg",
+    "static/media/Goldenwave.jpg": "/tgr/static/media/Goldenwave.e09e37d1.jpg",
     "static/media/mdb.css": "/tgr/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/tgr/static/media/fa-solid-900.8e1ed89b.woff2",
     "static/media/img1.jpg": "/tgr/static/media/img1.2af2b5c2.jpg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.5a409134.js",
     "static/css/2.11b917a3.chunk.css",
-    "static/js/2.13185539.chunk.js",
-    "static/css/main.dd8e36cb.chunk.css",
-    "static/js/main.c839e9ce.chunk.js"
+    "static/js/2.6282e196.chunk.js",
+    "static/css/main.c065323a.chunk.css",
+    "static/js/main.ee571d5d.chunk.js"
   ]
 }
